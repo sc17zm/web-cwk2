@@ -1,0 +1,67 @@
+
+
+body {
+ background:	 #257470 ;
+  font-family: Verdana, Times, sans-serif;
+
+}
+
+.navbar {
+
+  overflow: hidden;
+  background-color: #34A39D;
+  border-radius: 25px;
+
+}
+
+label,h3{
+  font-weight: bold;
+  color: white;
+}
+
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: left;
+  padding: 15px 18px;
+  text-decoration: none;
+  font-size: 19px;
+  border-radius: 25px;
+
+
+}
+
+.navbar a:hover {
+  background-color: #94C5C2;
+  color: black;
+
+}
+
+.navbar a.active {
+  background-color: #C9DDDC;
+  color: black;
+  font-weight: bold;
+}
+
+body {
+ background:	 #406264 ;
+  font-family: Verdana, Times, sans-serif;
+
+}
+
+
+h1{
+  font-family: Verdana, Times, sans-serif;
+  color: #f2f2f2;
+  text-align: center;
+
+  font-size: 35px;
+  text-decoration: inherit;
+  margin-top: 10px;
+
+}
+
+label{
+  font-weight: bold;
+  color: white;
+}

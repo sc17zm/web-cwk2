@@ -1,0 +1,24 @@
+
+
+body {
+ background:	 #406264 ;
+  font-family: Verdana, Times, sans-serif;
+
+}
+
+
+h1{
+  font-family: Verdana, Times, sans-serif;
+  color: #f2f2f2;
+  text-align: center;
+
+  font-size: 35px;
+  text-decoration: inherit;
+  margin-top: 10px;
+
+}
+
+label,h3{
+  font-weight: bold;
+  color: white;
+}
